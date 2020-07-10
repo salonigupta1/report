@@ -1,6 +1,6 @@
 **Title**: Computer Vision(OpenCv)
 
-**Authors**: Saloni Gupta, Pranshi Jindal, Yash Agrawal
+**Authors**: Saloni Gupta, Pranshi Jindal, Yash Agarwal
 
 **Email-id**: saloniguptasg12@gmail.com, apranshi11@gmail.com, yashagarwal1214@gmail.com
 
