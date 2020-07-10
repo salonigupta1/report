@@ -8,7 +8,7 @@
 
 **Introduction**: Web development is the building and maintenance of websites; it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.
 
-**Equipments/Software used**: Visual studio code, AWS, cloud9, etc.
+**Equipments/Software used**: Visual studio code, AWS, cloud9.
 
 **Procedure**: Followed some youtube and udemy tutorials. [Reference](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
